@@ -1,0 +1,36 @@
+Mobile Services Landing Page : 
+[Major=M3] [Medium=M2] [Minor=M1]
+
+
+(Web)
+
+1.PNG [M3]-> There's no banner in the header .
+
+2.PNG [M3]--> There are no links,descriptions and (Find out more button) for many card  
+2.PNG [M3]->card pictuers' resulation not good , need to replaced .
+
+3.PNG [M2] -> Hover transform time need to be increased  .
+
+4.PNG [M3]-> SVG image have to be a man wears headphones as per design and
+&& (Need Support) Statement have to be underlined .
+
+9.PNG [M3]-> In orange chat messages Card ,(Find out more) button linked 
+with wrong Url . please check .
+
+
+_________________________________________________________
+
+(In Tablet & Mobile )
+
+
+5.PNG [M3]--> Mobile Services Seciton Need more margin bottom 
+
+_________________________________________________________
+
+(In Arabic)
+
+7.PNG [M3]-> The card descriptions and (Find out more)Button Need to
+ translate to Arabic .
+
+8.PNG[M3]-> (IN WEB VIEW) There are two cards have the same pictuer .
+

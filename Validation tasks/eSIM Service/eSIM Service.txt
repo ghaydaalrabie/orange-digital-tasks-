@@ -1,0 +1,60 @@
+eSIM Service Page : 
+[Major=M3] [Medium=M2] [Minor=M1]
+
+
+(Web)
+
+2.PNG [M1]->The font color in the design is darker .
+
+3.PNG + 4.PNG ->[M3] When you click on the Apple sign, Samsung devices appear, not Apple, 
+and also when you click on Samsung, Apple devices appear, please switch between them.
+
+5.PNG -> [M1] There is a box background behind the number need to delete .
+
+6.PNG -> [M3] Cards link opens in a new tab and also on the same page at the same time.
+
+7.PNG -> [M3] SVG image have to be a man wears headphones as per design and .
+
+10.PNG -> [M3] The two parts (Mobile Services & Need support) need to be on 
+the same vertical straightness .
+
+
+14.PNG->[M2] (Content point) IN ARABIC VERSION -> Need a better translation .
+
+_________________________________________________________
+
+(In Mobile)
+
+11.PNG-> [M2] The appearance of half of the Button (Other Governorate)
+ to the user on the phone screen,not full 
+
+12.PNG->[M1] The button (Show list) does not make any change when pressed .
+
+13.PNG->[M3] as per design text color is black not gray . 
+
+
+_________________________________________________________
+
+(In Tablet)
+
+15.PNG-> [M2](Content point) IN MOBILE SERVICE SECTION There's two card have a
+ same background picture please check . 
+
+17.PNG->[M2] Need more space above the titles .
+
+
+20.PNG->[M3]Links open in a another tab &&  SVG image have to
+ be a man wears headphones as per design
+
+_________________________________________________________
+
+(In Arabic)
+
+8.PNG -> [M3] Under eSIM  Features in Arabic Version 
+ This tab exists without any functionality, please check and delete it.
+
+9.PNG -> [M3]In the Arabic version, all the frequently asked questions do not appear 
+as in the English version, only two questions appear .
+
+18.PNG + 19.PNG->[M3] In the Arabic version, all two questions are merged together
+, while the answer to one question .

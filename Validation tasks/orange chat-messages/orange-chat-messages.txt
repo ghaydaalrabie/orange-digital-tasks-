@@ -1,0 +1,24 @@
+orange-chat-messages Page : 
+[Major=M3] [Medium=M2] [Minor=M1]
+
+
+
+(Web)
+
+1.PNG->[M2] (use 4G/3G and not Wifi) sentence have to be behined the (Downlod App!) 
+sentence.
+
+2.PNG->[M2] need support section have to take the  same alignment as the mobile
+services section.
+
+
+3.PNG->[M3] two photos have been repeated for two different cards.
+
+5.PNG->[M3]Links open in a another tab & in the same page in the same time
+
+_________________________________________________________
+
+(In Tablet)
+
+4.PNG->[M2] (use 4G/3G and not Wifi) sentence have to be behined the (Downlod App!) 
+sentence but make sure that the sentence doesn't be overlay the phone picture.  
